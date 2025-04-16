@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dit\\source\\repos\\GIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4EAFAD-3F58-4D01-AA28-34CD37EB7FFC}|GIS\\GIS.csproj|c:\\users\\dit\\source\\repos\\gis\\gis\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4EAFAD-3F58-4D01-AA28-34CD37EB7FFC}|GIS\\GIS.csproj|solutionrelative:gis\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4EAFAD-3F58-4D01-AA28-34CD37EB7FFC}|GIS\\GIS.csproj|c:\\users\\dit\\source\\repos\\gis\\gis\\underlinelayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4EAFAD-3F58-4D01-AA28-34CD37EB7FFC}|GIS\\GIS.csproj|solutionrelative:gis\\underlinelayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4EAFAD-3F58-4D01-AA28-34CD37EB7FFC}|GIS\\GIS.csproj|c:\\users\\dit\\source\\repos\\gis\\gis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4EAFAD-3F58-4D01-AA28-34CD37EB7FFC}|GIS\\GIS.csproj|solutionrelative:gis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4EAFAD-3F58-4D01-AA28-34CD37EB7FFC}|GIS\\GIS.csproj|c:\\users\\dit\\source\\repos\\gis\\gis\\rtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4EAFAD-3F58-4D01-AA28-34CD37EB7FFC}|GIS\\GIS.csproj|solutionrelative:gis\\rtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4EAFAD-3F58-4D01-AA28-34CD37EB7FFC}|GIS\\GIS.csproj|c:\\users\\dit\\source\\repos\\gis\\gis\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4EAFAD-3F58-4D01-AA28-34CD37EB7FFC}|GIS\\GIS.csproj|solutionrelative:gis\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 269,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\dit\\source\\repos\\GIS\\GIS\\Map.cs",
+              "RelativeDocumentMoniker": "GIS\\Map.cs",
+              "ToolTip": "C:\\Users\\dit\\source\\repos\\GIS\\GIS\\Map.cs",
+              "RelativeToolTip": "GIS\\Map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:52:11.222Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnderlineLayer.cs",
+              "DocumentMoniker": "C:\\Users\\dit\\source\\repos\\GIS\\GIS\\UnderlineLayer.cs",
+              "RelativeDocumentMoniker": "GIS\\UnderlineLayer.cs",
+              "ToolTip": "C:\\Users\\dit\\source\\repos\\GIS\\GIS\\UnderlineLayer.cs",
+              "RelativeToolTip": "GIS\\UnderlineLayer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:55:53.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dit\\source\\repos\\GIS\\GIS\\Form1.cs",
+              "RelativeDocumentMoniker": "GIS\\Form1.cs",
+              "ToolTip": "C:\\Users\\dit\\source\\repos\\GIS\\GIS\\Form1.cs",
+              "RelativeToolTip": "GIS\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:37:16.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RTree.cs",
+              "DocumentMoniker": "C:\\Users\\dit\\source\\repos\\GIS\\GIS\\RTree.cs",
+              "RelativeDocumentMoniker": "GIS\\RTree.cs",
+              "ToolTip": "C:\\Users\\dit\\source\\repos\\GIS\\GIS\\RTree.cs",
+              "RelativeToolTip": "GIS\\RTree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:59:27.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\dit\\source\\repos\\GIS\\GIS\\Area.cs",
+              "RelativeDocumentMoniker": "GIS\\Area.cs",
+              "ToolTip": "C:\\Users\\dit\\source\\repos\\GIS\\GIS\\Area.cs",
+              "RelativeToolTip": "GIS\\Area.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:51:53.479Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 131,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

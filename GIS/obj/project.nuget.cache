@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ayZPKetyB2w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dit\\source\\repos\\GIS\\GIS\\GIS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dit\\.nuget\\packages\\nettopologysuite\\2.5.0\\nettopologysuite.2.5.0.nupkg.sha512",
+    "C:\\Users\\dit\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
